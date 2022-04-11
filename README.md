@@ -41,6 +41,6 @@ You can enjoy Wifi-H4ck.
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/Error-4-You"><img src="ss/screen.PNG" alt="Cracking" width="90%"></a>
+  <a href="https://github.com/Error-4-You"><img src="SS/screen.png" alt="Cracking" width="90%"></a>
   </br>
 </h1>
